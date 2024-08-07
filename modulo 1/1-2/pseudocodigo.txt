@@ -1,0 +1,13 @@
+INICIO
+
+LEIA n
+
+numero1: n - 1
+
+numero2: 10 - n
+
+resultado: numero1 * 10 + numero2
+
+RETORNE resultado
+
+FIM
