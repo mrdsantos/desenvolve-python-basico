@@ -1,0 +1,15 @@
+Solução Dissertativa
+
+Método para calcular a tabuada dos 9
+
+Entrada:
+Receba o valor de n.
+
+Processamento:
+Calcule o primeiro número (numero1) como  (n-1).
+Calcule o segundo número (numero2) como 10 - n.
+Multiplique o primeiro número por 10 para obter a (dezena) (numero1 * 10).
+Some (dezena) com o (numero2) para obter o (resultado) final da operação.
+
+Saída:
+Imprima o (resultado).
